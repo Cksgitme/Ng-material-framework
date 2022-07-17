@@ -1,2 +1,2 @@
 # Ng-material-framework
-angular-materail basic  framework
+angular-material basic  framework
