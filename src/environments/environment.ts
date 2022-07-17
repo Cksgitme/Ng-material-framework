@@ -4,9 +4,8 @@
 
 export const environment = {
   production: false,
-  apiBaseUrl: 'http://localhost:5000/api/'
-  // apiBaseUrl: 'http://182.71.212.154:90/CioPortalApiDev/api/'
-  // apiBaseUrl: 'http://182.71.212.154:90/CioPortalApiNew/api/'
+  apiBaseUrl: "http://localhost:5000/api/",
+  // apiBaseUrl: 'http://domain:port/webpath/api/'
 };
 
 /*
